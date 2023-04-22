@@ -1,0 +1,3 @@
+D:/CBit/hommework08/cmake-build-debug/CMakeFiles/hommework08.dir
+D:/CBit/hommework08/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CBit/hommework08/cmake-build-debug/CMakeFiles/rebuild_cache.dir
