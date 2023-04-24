@@ -15,9 +15,26 @@ void game() {
     //time函数可以返回一个时间戳
     //1.生成随机数
     int ret = rand();//可以生成随机数，生成范围0- 32767
-    printf("%d\n", &ret);
     //2.猜数字
+    int i = 0;
 
+    while (1)
+    {
+        printf("猜猜看那");
+        scanf_s("%d", &i);
+        if (ret > i)
+        {
+            printf("大于这个数字。");
+        }
+        else if(ret < i)
+        {
+            printf("小于这个数字。");
+        }
+        else {
+            printf("找到了\n");
+            break;
+        }
+    }
 }
 int main() {
     int input = 0;

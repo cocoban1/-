@@ -3,4 +3,4 @@ project(homework07 C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(homework07 main.c)
+add_executable(homework07 homework07.c)
