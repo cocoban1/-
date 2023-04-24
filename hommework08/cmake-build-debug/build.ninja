@@ -49,8 +49,8 @@ cmake_ninja_workdir = D$:/CBit/hommework08/cmake-build-debug/
 
 build cmake_object_order_depends_target_hommework08: phony || CMakeFiles/hommework08.dir
 
-build CMakeFiles/hommework08.dir/main.c.obj: C_COMPILER__hommework08_Debug D$:/CBit/hommework08/main.c || cmake_object_order_depends_target_hommework08
-  DEP_FILE = CMakeFiles\hommework08.dir\main.c.obj.d
+build CMakeFiles/hommework08.dir/homework08.c.obj: C_COMPILER__hommework08_Debug D$:/CBit/hommework08/homework08.c || cmake_object_order_depends_target_hommework08
+  DEP_FILE = CMakeFiles\hommework08.dir\homework08.c.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu99
   OBJECT_DIR = CMakeFiles\hommework08.dir
   OBJECT_FILE_DIR = CMakeFiles\hommework08.dir
@@ -63,7 +63,7 @@ build CMakeFiles/hommework08.dir/main.c.obj: C_COMPILER__hommework08_Debug D$:/C
 #############################################
 # Link the executable hommework08.exe
 
-build hommework08.exe: C_EXECUTABLE_LINKER__hommework08_Debug CMakeFiles/hommework08.dir/main.c.obj
+build hommework08.exe: C_EXECUTABLE_LINKER__hommework08_Debug CMakeFiles/hommework08.dir/homework08.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\hommework08.dir
