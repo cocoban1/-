@@ -1,0 +1,25 @@
+# ninja log v5
+1	182	7050425201638532	CMakeFiles/homework10.dir/main.c.obj	5a1a5c9944ce1f6
+184	383	7050425203627304	homework10.exe	cfeb9a7d2f0f51e
+2	80	7050425483991389	CMakeFiles/homework10.dir/main.c.obj	5a1a5c9944ce1f6
+81	237	7050425485530201	homework10.exe	cfeb9a7d2f0f51e
+2	85	7050425784242288	CMakeFiles/homework10.dir/main.c.obj	5a1a5c9944ce1f6
+86	239	7050425785769623	homework10.exe	cfeb9a7d2f0f51e
+2	93	7050432947962050	CMakeFiles/homework10.dir/main.c.obj	5a1a5c9944ce1f6
+94	244	7050432949452852	homework10.exe	cfeb9a7d2f0f51e
+2	79	7050433446172491	CMakeFiles/homework10.dir/main.c.obj	5a1a5c9944ce1f6
+80	236	7050433447722702	homework10.exe	cfeb9a7d2f0f51e
+2	82	7050439950333734	CMakeFiles/homework10.dir/main.c.obj	5a1a5c9944ce1f6
+83	236	7050439951844078	homework10.exe	cfeb9a7d2f0f51e
+2	193	7050680662023804	CMakeFiles/homework10.dir/main.c.obj	5a1a5c9944ce1f6
+194	378	7050680663857274	homework10.exe	cfeb9a7d2f0f51e
+2	81	7050689802784628	CMakeFiles/homework10.dir/main.c.obj	5a1a5c9944ce1f6
+82	230	7050689804244948	homework10.exe	cfeb9a7d2f0f51e
+2	194	7052441354735710	CMakeFiles/homework10.dir/main.c.obj	5a1a5c9944ce1f6
+195	407	7052441356856152	homework10.exe	cfeb9a7d2f0f51e
+2	1008	7062825238539029	CMakeFiles/homework10.dir/main.c.obj	5a1a5c9944ce1f6
+1009	1455	7062825242993187	homework10.exe	cfeb9a7d2f0f51e
+2	78	7062827165742478	CMakeFiles/homework10.dir/main.c.obj	5a1a5c9944ce1f6
+79	235	7062827167277808	homework10.exe	cfeb9a7d2f0f51e
+2	342	7063410274188832	CMakeFiles/homework10.dir/main.c.obj	5a1a5c9944ce1f6
+343	801	7063410278749857	homework10.exe	cfeb9a7d2f0f51e

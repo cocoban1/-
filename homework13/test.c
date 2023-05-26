@@ -27,7 +27,9 @@ void game(){
     //displayBoard(show ,ROW,COL);
     //²¼ÖÃÀ×
     setMine(mine , ROW , COL);
-    displayBoard(mine ,ROW,COL);
+    //displayBoard(mine ,ROW,COL);
+//    ÅÅ²éÀ×
+    void findMine()
 }
 int main(){
     int input = 0;
