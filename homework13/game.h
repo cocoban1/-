@@ -4,6 +4,7 @@
 #define COL 9
 #define ROWS ROW+2
 #define COLS COL+2
+#define EAZY_COUNT 10
 
 void initBoard(char board[ROWS][COLS] , int rows , int cols, char set);
 void displayBoard(char board[ROW][COL] , int row , int col);

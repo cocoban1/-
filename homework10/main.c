@@ -103,29 +103,76 @@ int sum(int n ){
 //char arr[] = "abcdef";
 //逆序之后数组的内容变成：fedcba
 
-#include <stdio.h>
-#include <string.h>
-
+//#include <stdio.h>
+//#include <string.h>
+//计算数组长度
+/*
+int my_strlen(char* p){
+    int count = 0;
+    while (*p != '\0'){
+        count++;
+        p++;
+    }
+    return count;
+}*/
+//递归
+/*
+int my_strlen(char *p){
+    if (*p == '\0'){
+        return 0;
+    } else{
+        return my_strlen(p + 1) + 1;
+    }
+}
 void reverse_string(char* p){
-    int len = strlen(p);
+    int len = my_strlen(p);
     char tmp = *p;
     *p = *(p + len - 1);
-    *(p + len - 1) = '/0';
-    if(strlen(p + 1) >= 2)
-        reverse_string(p++);
-    *t
-}
+    *(p + len - 1) = '\0';
+    if(my_strlen(p+1) >= 2)
+        reverse_string(p+1);
+    *(p + len - 1) = tmp;
+ }
 
 int main (){
     char arr[]= "abcdef";
-    int len = (sizeof(arr) / sizeof (arr[0])) - 1 ;
+    printf("%s\n" , arr);
+    reverse_string(arr);
+    printf("%s\n" , arr);
 
 }
+*/
+//递归阶乘
+/*
+#include <stdio.h>
+#include <math.h>
+int Time(int n){
+    if(n == 1)
+    {
+        return 1;
+    } else{
+        return n * Time(n-1);
+    }
+}
+int main(){
+    int n ;
+    scanf("%d" , &n);
+    int count = Time(n);
+    printf("%d" , count);
+}
+*/
 
+#include <stdio.h>
 
-
-
-
-
-
-
+void print(int n){
+    if(n < 10 ){
+        printf("%d " , n);
+    } else{
+        print(n / 10);
+        printf("%d " ,n % 10);
+    }
+}
+int main(){
+    int n = 1927;
+    print(n);
+}
