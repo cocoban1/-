@@ -71,7 +71,7 @@ void findMine(char mine[ROWS][COLS] , char show[ROWS][COLS] , int row , int col)
         }else{
             printf("坐标非法，重新输入\n");
         }
-        if(win < row * col - EAZY_COUNT){
+        if(win >= row * col - EAZY_COUNT){
             printf("恭喜你，排雷成功");
             displayBoard(mine, ROW, COL);
         }
