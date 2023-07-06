@@ -1,7 +1,7 @@
 #include "game.h"
 
 #include <stdio.h>
-#include <string.h>
+
 #include <stdlib.h>
 
 //扫雷游戏
@@ -13,20 +13,21 @@ void initBoard(char board[ROWS][COLS] , int rows , int cols , char set){
         }
     }
 }
-void displayBoard(char board[ROW][COL] , int row , int col){
+void displayBoard(char board[ROWS][COLS] , int row , int col){
     printf("------扫雷游戏-------\n");
-    for (int i = 0; i < 10; ++i) {
+    for (int i = 1; i <= 10; i++) {
         printf("%d " , i);
     }
     printf("\n");
-    for (int i = 1; i <= col; ++i) {
+    for (int i = 1; i <= row; ++i) {
         printf("%d " ,i );
-        for (int j = 0; j < row; ++j) {
+        for (int j = 1; j <= col; ++j) {
             printf("%c " , board[i][j]);
         }
         printf("\n");
     }
 }
+
 //布置雷
 void setMine(char board[ROWS][COLS] , int row , int col){
     int count = 10;
@@ -39,13 +40,30 @@ void setMine(char board[ROWS][COLS] , int row , int col){
         }
     }
 }
+//获取周围雷的数量
 int GetMineCount(char mine[ROWS][COLS], int x, int y)
 {
     return (mine[x-1][y]+mine[x-1][y-1]+mine[x][y - 1]+mine[x+1][y-1]+mine[x+1][y]+
             mine[x+1][y+1]+mine[x][y+1]+mine[x-1][y+1] - 8 * '0');
 }
-void showWhite(char mine[ROWS][COLS] , char show[ROWS][COLS] , int x , int y){
 
+
+void showWhite(char mine[ROWS][COLS] , char show[ROWS][COLS] , int x , int y ,int* win){
+    int count = GetMineCount(mine , x ,y);
+    if(count == 0){//四周无雷，开始递归
+        show[x][y] = count + '0';
+        for (int i = x - 1; i <= x + 1 ; ++i) {
+            for (int j = y-1; j < y+1; ++j) {
+                if(show[i][j] == '*'){
+                    showWhite(mine , show , i , j ,win);
+                }
+            }
+        }
+    } else{//四周有雷停止递归
+        show[x][y] = count + '0';
+    }
+    //记录展开数目
+    (*win)++;
 }
 //排雷
 void findMine(char mine[ROWS][COLS] , char show[ROWS][COLS] , int row , int col){
@@ -66,7 +84,11 @@ void findMine(char mine[ROWS][COLS] , char show[ROWS][COLS] , int row , int col)
                 int count = GetMineCount(mine, x, y);
                 show[x][y] = count + '0';
                 displayBoard(show, ROW, COL);
-                win++;
+                if(count == 0)
+                {
+                    showWhite(mine , show, x, y, &win);
+                } else
+                    win++;
             }
         }else{
             printf("坐标非法，重新输入\n");

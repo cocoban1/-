@@ -7,7 +7,7 @@
 #define EAZY_COUNT 10
 
 void initBoard(char board[ROWS][COLS] , int rows , int cols, char set);
-void displayBoard(char board[ROW][COL] , int row , int col);
+void displayBoard(char board[ROWS][COLS] , int row , int col);
 void setMine(char board[ROWS][COLS] , int rows , int cols);
 void findMine(char mine[ROWS][COLS] , char show[ROWS][COLS] , int row , int col);
 #endif //HOMEWORK13_GAME_H
