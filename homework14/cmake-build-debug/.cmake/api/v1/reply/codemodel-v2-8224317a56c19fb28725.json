@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "homework14::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-homework14-Debug-5d201fdf41eee65ff724.json",
+					"jsonFile" : "target-homework14-Debug-38ab026233de06d78a45.json",
 					"name" : "homework14",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/CBit/homework14/cmake-build-debug",
-		"source" : "D:/CBit/homework14"
+		"build" : "D:/GitHub/CBit/homework14/cmake-build-debug",
+		"source" : "D:/GitHub/CBit/homework14"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 5
 	}
 }
