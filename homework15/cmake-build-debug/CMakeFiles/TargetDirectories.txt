@@ -1,0 +1,3 @@
+D:/GitHub/CBit/homework15/cmake-build-debug/CMakeFiles/homework15.dir
+D:/GitHub/CBit/homework15/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/CBit/homework15/cmake-build-debug/CMakeFiles/rebuild_cache.dir
