@@ -1,0 +1,3 @@
+D:/GitHub/CBit/Study10_23/cmake-build-debug/CMakeFiles/Study10_23.dir
+D:/GitHub/CBit/Study10_23/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/CBit/Study10_23/cmake-build-debug/CMakeFiles/rebuild_cache.dir
