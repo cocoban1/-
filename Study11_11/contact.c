@@ -39,9 +39,11 @@ int i  = 0;
 void LoadContact(Contact* con){
     FILE *pf = fopen("contact.dat","rb");
 }
+
 //初始化通讯录
 void InitContact(Contact* con){
-    con ->data =(PeoInfo*)malloc(3*sizeof(PeoInfo));
+    con ->data =(PeoInfo*)malloc(3*sizeof(PeoInfo));//动态申请内存
+
     if (con ->data == NULL){
         perror("InitContact error");
         return;
@@ -115,8 +117,9 @@ void DleContact(Contact* con){
     }
 }
 void ShowContact(const Contact* con){
+    printf("");
     for (int i = 0; i < con->sz ; ++i) {
-        printf("%20-s %d  %c  %s  %s\n",
+        printf("%10-s %d  %c  %s  %s\n",
                con ->data[i].name,
                con ->data[i].age,
                con ->data[i].sex,

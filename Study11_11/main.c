@@ -23,7 +23,7 @@ void test(){
             case 0:
                 SaveContact( &con);
                 printf("ÍË³ö³ÌÐò\n");
-                break;
+                return;
             case 1:
                 AddContact( &con);
                 break;
