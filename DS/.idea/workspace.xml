@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b42f5e77-5aec-4c18-a6b7-20be8987b0c9" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../Study1_14_/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Study1_14_/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/.idea/homework12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/.cmake/api/v1/reply/cache-v2-dd4e9906f8231cc03453.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-e9592bd5c7c8fe86a67c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-c39fc6eedc47766ce693.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/.cmake/api/v1/reply/index-2023-06-03T10-42-39-0200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/.cmake/api/v1/reply/target-homework12-Debug-f4e23cdf99175532b3ff.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-dbc4bb9a068cf514dd89.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/CMakeFiles/3.25.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/CMakeFiles/homework12.dir/game.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/CMakeFiles/homework12.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/cmake-build-debug/homework12.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/game.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/game.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework12/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/.idea/homework13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/.cmake/api/v1/reply/cache-v2-75ef6cff438758c1c4d4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-c4fbb1738d5211fca026.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5c13fd3ce7d4bebb75bf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/.cmake/api/v1/reply/index-2023-05-24T10-57-50-0436.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/.cmake/api/v1/reply/target-homework13-Debug-0aebd17d9142fccf31af.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-dbc4bb9a068cf514dd89.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/CMakeFiles/3.25.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/CMakeFiles/homework13.dir/game.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/CMakeFiles/homework13.dir/test.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/cmake-build-debug/homework13.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/game.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/game.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework13/test.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/.idea/homework14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c87649ce04a51c51c5d6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-320fdd6869a9003f4def.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-8224317a56c19fb28725.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-17T04-02-13-0498.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/.cmake/api/v1/reply/target-homework14-Debug-38ab026233de06d78a45.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-a4784b2d4fe5c43fe206.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/homework14.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/homework14.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/homework14.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/homework14.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/homework14.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/homework14.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/homework14.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/homework14.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/homework14.dir/linkLibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/homework14.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/homework14.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/cmake-build-debug/homework14.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework14/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/.idea/homework15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/.cmake/api/v1/reply/cache-v2-67293bcda3313b963359.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-df4c0dc48db2383c3ba9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-9eda3a197fca34cb481c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-23T03-11-19-0780.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/.cmake/api/v1/reply/target-homework15-Debug-151f1e5c9720e053ef91.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-a4784b2d4fe5c43fe206.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/CMakeFiles/homework15.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/cmake-build-debug/homework15.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework15/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/.idea/homework16.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/.cmake/api/v1/reply/cache-v2-1532699dece255981e7c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-7e73474240a0838abcfe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-147407adb137597738d1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-23T03-13-31-0949.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/.cmake/api/v1/reply/target-homework16-Debug-8a16b55a65472b4dbb3c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-a4784b2d4fe5c43fe206.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/CMakeFiles/homework16.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/cmake-build-debug/homework16.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework16/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/.idea/hommework08.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/.cmake/api/v1/reply/cache-v2-ee0c84601b4e1efa7589.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-8a6cec40cfda94c10827.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-297cfa83efe830f21b92.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-dbc4bb9a068cf514dd89.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/CMakeFiles/3.25.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/CMakeFiles/hommework08.dir/homework07.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/CMakeFiles/hommework08.dir/homework08.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/CMakeFiles/hommework08.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/cmake-build-debug/hommework08.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hommework08/homework08.c" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2dG6uqZmcoF3czY6L2UjzJGdd2s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "DS",
+    "last_opened_file_path": "D:/GitHub/CBit/DS/DS_3_2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b42f5e77-5aec-4c18-a6b7-20be8987b0c9" name="更改" comment="" />
+      <created>1709622294716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709622294716</updated>
+      <workItem from="1709622296862" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
