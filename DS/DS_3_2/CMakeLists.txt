@@ -3,4 +3,6 @@ project(DS)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(DS main.cpp)
+add_executable(DS main.c
+        SeqList.h
+        SeqList.c)
