@@ -11,7 +11,8 @@ typedef struct SListNode{
     SLTDataType data;
     struct SListNode* next;
 }SLTNode;
-void SLTBackPush(SLTNode*phead,SLTDataType x);
+void SLTBackPush(SLTNode** phead,SLTDataType x);
 SLTNode* BuySListNode(SLTDataType x);
+SLTDataType SLTFind(SLTNode* phead,int pos);
 void SLTPrint(SLTNode* phead);
 #endif //DS_3_21_SLIST_H

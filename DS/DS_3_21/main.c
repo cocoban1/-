@@ -14,10 +14,11 @@ void TestSList() {
         newnode->next = plist;
         plist = newnode;
     }
-    SLTBackPush(plist,1000);
-    SLTBackPush(plist,10000);
+    SLTBackPush(&plist,1000);
+    SLTBackPush(&plist,10000);
     SLTPrint(plist);
 }
+
 int main(){
     TestSList();
 

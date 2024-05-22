@@ -73,12 +73,22 @@ void SLPopFrount(SL* ps)
     ps->size--;
 }
 //在POS位置插入
-void SLPushPos(SL* ps,int pos,SLDataType x
-
+void SLPushPos(SL* ps,int pos,SLDataType x)
 {
     assert(ps!=NULL);
-
+    SLCheckCapacity(ps);
     for (int end = ps->size-1; end > pos-1; --end) {
         ps->a[end+1] = ps->a[end];
     }
+    ps->a[pos] = x;
+    ps->size++;
+}
+//在pos位置删除
+void SLPopPos(SL* ps,int pos){
+    assert(ps!=NULL);
+    SLCheckCapacity(ps);
+    for (int frount = pos-1; frount <ps->size-2 ; ++frount) {
+        ps->a[frount] = ps->a[frount+1];
+    }
+    ps->size--;
 }

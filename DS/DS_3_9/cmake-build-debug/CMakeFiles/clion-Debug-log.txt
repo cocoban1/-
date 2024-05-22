@@ -5,6 +5,6 @@
 -- Check for working C compiler: D:/CLion 2023.2.2/bin/mingw/bin/gcc.exe - skipped
 -- Detecting C compile features
 -- Detecting C compile features - done
--- Configuring done (1.4s)
+-- Configuring done (3.5s)
 -- Generating done (0.0s)
 -- Build files have been written to: D:/GitHub/CBit/DS/DS_3_9/cmake-build-debug
