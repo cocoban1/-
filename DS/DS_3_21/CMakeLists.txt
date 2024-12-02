@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(DS_3_21 main.c
         SList.c
-        SList.h)
+        SList.h
+        hello.cpp)

@@ -52,3 +52,13 @@ SLTDataType SLTFind(SLTNode* phead,int pos)
     }
     return phead->data;
 }
+//Ç°²å
+void SLTFrontPush(SLTNode** pphead,SLTDataType x){
+    SLTNode *newnode = BuySListNode(x);
+    if(*pphead == NULL){
+        *pphead = newnode;
+    }else{
+        newnode->next = *pphead;
+        *pphead = newnode;
+    }
+}
